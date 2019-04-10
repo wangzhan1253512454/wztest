@@ -1,0 +1,2 @@
+# wztest
+a test repository
