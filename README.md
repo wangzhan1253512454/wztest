@@ -1,2 +1,0 @@
-# wztest
-a test repository
